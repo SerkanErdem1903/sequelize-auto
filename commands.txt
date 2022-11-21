@@ -1,0 +1,3 @@
+./node_modules/sequelize-auto/bin/sequelize-auto -o "./models" -h w010c057.kasserver.com -d d02a52e3 -u d02a52e3 -x TCGwQ2cdBzo69Nkt --dialect mysql
+./node_modules/sequelize-auto/bin/sequelize-auto -o "./local_models" -h localhost -d datenmodell -u root --dialect mysql --cm c --cp c --cf c --noAlias --singularize false
+
